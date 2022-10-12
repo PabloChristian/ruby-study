@@ -5,6 +5,9 @@ p "First: #{address.first}"
 p "Last: #{address.last}"
 p "Length: #{address.length}"
 
+# selects the value and returns it only if the condition is met
+puts address.select { |number| number.odd? }
+
 #reverse
   #new_address = address.reverse!
   #p new_address
