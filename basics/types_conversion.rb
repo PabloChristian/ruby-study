@@ -8,3 +8,6 @@
 
 #change type to integer
 10.to_i.class
+
+#change type to float
+10.to_f.class

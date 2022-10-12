@@ -10,6 +10,6 @@
 ##string interpolation
   #puts "My first name is #{name} and my last name is #{name2}"
 
-#multiples a character
+#multiplies a character
   #puts "hi" * 20
   #20.times{print "hi"}
