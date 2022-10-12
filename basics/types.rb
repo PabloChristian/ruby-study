@@ -5,3 +5,6 @@
 
 #change type to string
 10.to_s.class
+
+#change type to integer
+10.to_i.class
