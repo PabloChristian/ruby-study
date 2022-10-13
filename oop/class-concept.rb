@@ -1,6 +1,6 @@
 class Student
-  attr_accessor :first_name, :last_name, :email
-  attr_reader :username
+  attr_accessor :first_name, :last_name, :email ##get and set
+  attr_reader :username #only get
 
   def initialize(firstname, lastname, username, email)
     @first_name = firstname
