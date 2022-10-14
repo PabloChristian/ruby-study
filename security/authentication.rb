@@ -7,7 +7,6 @@ end
 
 module Crud
   require 'bcrypt'
-  puts "Module CRUD activated"
 
   def Crud.create_hash_digest(password)
     BCrypt::Password.create(password)
