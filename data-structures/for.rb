@@ -7,8 +7,3 @@ end
 for i in 0..5
   puts "Value of local variable is #{i}"
 end
-
-#array length
-for i in array.length()
-  puts "Value of local variable is #{i}"
-end
