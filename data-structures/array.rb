@@ -17,3 +17,8 @@ puts address.select { |number| number.odd? }
 #def say_hello(text)
   #puts text
 #end
+
+
+##add item
+#valueList = Array.new
+#valueList.append(10)
